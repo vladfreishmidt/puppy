@@ -21,3 +21,7 @@ func BigBarks() string {
 func From11() string {
 	return "Hey, I'm from version 1.1.0"
 }
+
+func From12() string {
+	return "Hey, I'm from version 1.2.0"
+}
